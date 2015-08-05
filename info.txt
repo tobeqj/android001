@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sisiiissis
 oo
+=======
+ssaaaaaas
+>>>>>>> master
